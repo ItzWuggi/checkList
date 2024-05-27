@@ -5,12 +5,12 @@
             <h1 class="text-dark">Lista di cose da fare <img src="/storage/img/icons8-da-fare-50.png" alt=""></h1>
             <div class="row justify-content-space-between">
                 <input type="text" id="input-box" class="form-control" placeholder="Inserisci il testo">
-                <button class="button">Aggiungi</button>
+                <button class="button1 btn">Aggiungi</button>
             </div>
-            <ul id="list-container">
-                <li>Task 1</li>
-                <li>Task 2</li>
-                <li>Task 3</li>
+            <ul class="checkMe" id="list-container">
+                <li class="checkMe">Task 1</li>
+                <li class="checkMe">Task 2</li>
+                <li class="checkMe">Task 3</li>
             </ul>
         </div>
     </div>
