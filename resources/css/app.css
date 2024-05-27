@@ -1,3 +1,4 @@
 @import 'bootstrap';
 @import './style.css';
-@import './masthead.css'
+@import './masthead.css';
+@import './checkList.css';
